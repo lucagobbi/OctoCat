@@ -4,7 +4,7 @@
     "description": "OctoCat is an OctoPrint integration to let the Cat control your 3D printers",
     "author_name": "Luca Gobbi",
     "author_url": "https://github.com/lucagobbi",
-    "plugin_url": "https://github.com/lucagobbi/ha_agent",
+    "plugin_url": "https://github.com/lucagobbi/OctoCat",
     "tags": "cat, 3d, printer, iot, diy, octoprint",
     "thumb": "https://raw.githubusercontent.com/lucagobbi/OctoCat/main/assets/thumb.png"
 }
